@@ -19,7 +19,7 @@ Identify **undervalued, high-potential players** for 2026 squads by:
 
 ## 2️⃣ Data
 - **File(s):**
-  `data/fifa2026_players.csv`
+  `FIFA_Players_Stats.csv`
 
 - **Columns:**  
   `name, age, nationality, club, position, minutes_played_24_25, goals, assists, shots, key_passes, xG, xA, pass_accuracy_pct, tackles, interceptions, clearances, aerials_won, saves, clean_sheets, injury_days_24_25`.
