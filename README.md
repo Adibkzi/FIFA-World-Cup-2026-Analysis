@@ -1,4 +1,4 @@
-# ⚽ FIFA 2026 Player Insights — Archetypes, World-Class Probability, and Shortlist
+# ⚽ FIFA 2026 Player Insights — Archetypes, World-Class Probability, and Players Review
 
 > End-to-end data science project: engineer soccer features, discover player archetypes (unsupervised), predict “World-Class by 2026” (supervised), and export a recruitment shortlist.
 
